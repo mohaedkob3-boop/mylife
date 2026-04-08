@@ -1,0 +1,39 @@
+html{
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    background-color: chartreuse;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 10px 10px 5px rgb(246, 242, 17);
+}
+
+h1:hover{
+    color: blueviolet;
+}
+
+P1{
+    font-size: 30px;
+    color:brown; 
+}
+
+h2{
+    text-align: right;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+a{
+    color: purple;
+    text-decoration: underline;
+    text-align: left;
+}
+footer{
+    color: purple;
+}
+
